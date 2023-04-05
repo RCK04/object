@@ -11,7 +11,7 @@
 
 // Template
 // Geralmente Primeira letra maiuscula
-// constructor sempre que for criar uma 'pessoa' nova.!!!!!!!
+// - Constructor sempre que for criar uma 'pessoa' nova.
 class Person {
 
     age = 0;
