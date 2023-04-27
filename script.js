@@ -35,5 +35,5 @@ console.log(`P2 = ${p2.name} tem ${p2.age} anos`);
 
 console.log(`P3 = ${p3.name} tem ${p3.age} anos`);
 
-// - Continuar módulo!!!
+// - Continuar módulo!!! B7Web
 // - Continuação código.
