@@ -21,7 +21,7 @@ class Person {
     }
 }
 
-let p1 = new Person('João')
+let p1 = new Person('João') //nome
 let p2 = new Person('Maria')
 let p3 = new Person('Pedro')
 
