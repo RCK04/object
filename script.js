@@ -23,7 +23,7 @@ class Person {
 
 let p1 = new Person('João') //nome
 let p2 = new Person('Maria') //nome
-let p3 = new Person('Pedro') //nome
+let p3 = new Person('Pedro') //name
 
 p1.age = 20;
 p2.age = 30;
